@@ -1,4 +1,4 @@
-f#include <Adafruit_CircuitPlayground.h>
+#include <Adafruit_CircuitPlayground.h>
 #include <math.h>
 
 //  CONFIG 
