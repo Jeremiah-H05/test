@@ -1,4 +1,4 @@
-#include <Adafruit_CircuitPlayground.h>
+{#include <Adafruit_CircuitPlayground.h>
 #include <math.h>
 
 //  CONFIG 
@@ -210,4 +210,4 @@ void resetGame() {
   inRoulette = false;
   started = false;
   showDifficulty();
-}
+}}
